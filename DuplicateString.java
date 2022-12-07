@@ -1,5 +1,5 @@
 package com.akash;
-//Duplicate in a String
+//Q2. Duplicate in a String
 public class DuplicateString {
 	public static void main(String[] args) {
 		String s = "greatelearning";

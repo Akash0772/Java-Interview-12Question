@@ -1,5 +1,5 @@
 package com.akash;
-//How to find the length of the string without using length
+//Q3. How to find the length of the string without using length
 import java.util.Scanner;
 public class FindStringLength {
 	public static void main(String[] args) {
